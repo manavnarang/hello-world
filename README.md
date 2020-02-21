@@ -1,5 +1,5 @@
 # hello-world
 
 hi Everyone!
-Manav here,i am learning c,c++,css,php,html,python.
-I want to create my own AI.
+Manav here, I am learning c,c++,css,php,html,python3, java.
+I make projects on IOT and Robotics.
